@@ -80,3 +80,5 @@ update.microsoft.com
 pornhub.com
 net.anydesk.com
 pixel.facebook.com
+chat-e2ee-mini.facebook.com
+web.facebook.com
