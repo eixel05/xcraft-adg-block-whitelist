@@ -76,3 +76,5 @@ www.apple.com
 www.appleiphonecell.com
 update.microsoft.com
 net.anydesk.com
+iot.com
+usa.oauth.goodtime-iot.com
