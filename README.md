@@ -1,2 +1,2 @@
-# adblock-whitelist
-Always allow list for pihole and adguard.
+# Blocklist and Whitelist
+Text files of allowlist and blocklist for Adguard
