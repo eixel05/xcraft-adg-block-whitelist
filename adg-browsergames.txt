@@ -8204,6 +8204,7 @@
 ||play-free-online-game.co.uk^$ctag=user_child
 ||play-free-online-games.com^$ctag=user_child
 ||play-free-online-games.net^$ctag=user_child
+||play-games.com^$ctag=user_child
 ||play-happy.net^$ctag=user_child
 ||play-mahjong.org^$ctag=user_child
 ||play-sonic.net^$ctag=user_child
