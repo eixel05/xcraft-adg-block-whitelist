@@ -80,4 +80,3 @@ iot.com
 usa.oauth.goodtime-iot.com
 free-mp3-download.net
 etahub.com
-ei.phncdn.com
